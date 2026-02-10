@@ -1,4 +1,4 @@
-# 🐦 Twitter Login Page Clone (Flutter)
+# Medium Login Page Clone (Flutter)
 
 Clone da tela inicial de autenticação do Medium, desenvolvido com **Dart + Flutter**, com foco em estudo de layout, composição de widgets e fidelidade visual à interface original.
 
